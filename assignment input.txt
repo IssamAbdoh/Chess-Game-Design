@@ -1,0 +1,8 @@
+move f1 f3
+move b8 b6
+move g1 g3
+move c8 c6
+move e1 g1
+move d8 d6
+move g1 f1
+move e8 c8
